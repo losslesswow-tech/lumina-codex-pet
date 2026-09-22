@@ -1,0 +1,10 @@
+{
+  "ok": true,
+  "spriteVersionNumber": 2,
+  "spritesheet": "spritesheet.webp",
+  "validation": "validation.json",
+  "contact_sheet": "contact-sheet.png",
+  "direction_sheet": "look-directions.png",
+  "blind_review_resolution": null,
+  "package": "%USERPROFILE%\\.codex\\pets\\lumina"
+}
